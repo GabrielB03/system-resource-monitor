@@ -28,6 +28,7 @@ public class SystemMetrics
     // Timestamp when metrics were collected
     public DateTime Timestamp { get; set; }
 
+    // Defining the timestamp date
     public SystemMetrics()
     {
         Timestamp = DateTime.Now;
