@@ -36,20 +36,6 @@ The System Resource Monitor is a real-time system monitoring application built w
    dotnet run
    ```
 
-## Project Structure
-
-SystemResourceMonitor/
-├── SystemResourceMonitor.sln
-└── SystemResourceMonitor/
-    ├── Program.cs
-    ├── Models/
-    │   └── SystemMetrics.cs
-    ├── Services/
-    │   └── ResourceMonitorService.cs
-    └── Forms/
-        ├── MainForm.cs
-        └── MainForm.Designer.cs
-
 ## Project Screenshots
 
 ![imagem](https://github.com/user-attachments/assets/6668363c-97be-4d56-ba7e-f69c3a036106)
@@ -80,4 +66,4 @@ Feel free to contribute to this project by:
 
 ## License
 
-This project is licensed under the MIT license - see the [LICENSE]LICENSE file for details.
+This project is licensed under the MIT license - see the [LICENSE](LICENSE) file for details.
