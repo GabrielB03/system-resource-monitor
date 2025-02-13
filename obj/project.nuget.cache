@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aHm7AHGRde0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\Desktop\\Gabriel\\Projetos para Portfólio\\C#\\SystemResourceMonitor\\SystemResourceMonitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

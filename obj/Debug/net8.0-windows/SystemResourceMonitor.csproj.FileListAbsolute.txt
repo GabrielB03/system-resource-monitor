@@ -1,0 +1,14 @@
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\obj\Debug\net8.0-windows\SystemResourceMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\obj\Debug\net8.0-windows\SystemResourceMonitor.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\obj\Debug\net8.0-windows\SystemResourceMonitor.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\obj\Debug\net8.0-windows\SystemResourceMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\bin\Debug\net8.0-windows\SystemResourceMonitor.exe
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\bin\Debug\net8.0-windows\SystemResourceMonitor.deps.json
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\bin\Debug\net8.0-windows\SystemResourceMonitor.runtimeconfig.json
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\bin\Debug\net8.0-windows\SystemResourceMonitor.dll
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\bin\Debug\net8.0-windows\SystemResourceMonitor.pdb
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\obj\Debug\net8.0-windows\SystemResourceMonitor.dll
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\obj\Debug\net8.0-windows\refint\SystemResourceMonitor.dll
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\obj\Debug\net8.0-windows\SystemResourceMonitor.pdb
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\obj\Debug\net8.0-windows\SystemResourceMonitor.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\Gabriel\Projetos para Portfólio\C#\SystemResourceMonitor\obj\Debug\net8.0-windows\ref\SystemResourceMonitor.dll
