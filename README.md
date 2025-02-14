@@ -43,7 +43,7 @@ The System Resource Monitor is a real-time system monitoring application built w
 ## Requirements
 
 - **Windows Operating System**
-- **NET 8.0 Runtime or higher**
+- **.NET 8.0 Runtime or higher**
 - **System.Diagnostics.PerfomanceCounter package**
 
 ## Contribuition
